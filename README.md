@@ -24,7 +24,7 @@ cd Make/Linux
 ./compile
 ```
 
-### 4. 下载root-2022-11-18.ext3.gz到Install目录
+### 4. 下载root-2022-11-18.ext3.gz到Install目录（生成opn镜像需要依赖这个镜像）
 
 ```bash
 cd ../../Install
