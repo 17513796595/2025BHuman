@@ -13,6 +13,7 @@ cd BHumanCodeRelease
 
 ```bash
 wget http://212.64.83.115:5244/d/ye/createRobot.sh?sign=4Bl3ulmtewVjOmyeVI1TB4ve06RXNiaIyVAVsJQuyDQ=:0
+把名字改为 createRobot.sh
 chmod +x createRobot.sh
 ```
 
